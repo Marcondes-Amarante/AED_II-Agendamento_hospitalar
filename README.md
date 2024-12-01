@@ -20,7 +20,7 @@ O formato padrão para distribuição dos dados de especificação geral do hosp
 
 ### Exemplo válido de entrada:
 
-![exemplo_de_entrada](image.png)
+![exemplo_de_entrada](exemplo_de_entrada.png)
 
 # Esturutura e composição do projeto
 
